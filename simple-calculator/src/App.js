@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -7,7 +6,7 @@ function App() {
     <h1 className='title'>Simple Calculator</h1>
     <div className='calculator-grid'>
       <div className='output'>
-        <div className='previous-operand'>420</div>
+        <div className='previous-operand'>40</div>
         <div className='current-operand'>10500</div>
       </div>
       <button className='span-two'>AC</button>
